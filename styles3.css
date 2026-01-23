@@ -1,0 +1,12 @@
+body{
+    background-color: lightblue;
+}
+.footer-line{
+    width: 40px;
+    border: 40px  solid  color  darkgreen;
+    
+}
+.footer-links{
+    list-style: none;
+    padding-left: 0;
+}
